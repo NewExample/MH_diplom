@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>617659426007-l0ppju1ugdgaivla87kjha8o7docahv1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.617659426007-l0ppju1ugdgaivla87kjha8o7docahv1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>617659426007-3rngvi3ctvthpl83oki1f9d9th2tkh04.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSUIJS6RZW82orAkgpKoF-RlClrmU4bdA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>617659426007</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fullstack.megaholodClient</string>
+	<key>PROJECT_ID</key>
+	<string>megaholod-77f3e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>megaholod-77f3e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:617659426007:ios:729227b51093925131bc92</string>
+</dict>
+</plist>
