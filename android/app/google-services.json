@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "617659426007",
+    "project_id": "megaholod-77f3e",
+    "storage_bucket": "megaholod-77f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617659426007:android:4f2c2e75a06ebf6f31bc92",
+        "android_client_info": {
+          "package_name": "com.fullstack.megaholod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617659426007-3rngvi3ctvthpl83oki1f9d9th2tkh04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fullstack.megaholod",
+            "certificate_hash": "00a81b4e77aec6a6e3d9525c3102e1269399e2b2"
+          }
+        },
+        {
+          "client_id": "617659426007-3smt34t2fotrk3fbjdmg8sr4mjlqf196.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fullstack.megaholod",
+            "certificate_hash": "54b51540953ce02c693739dda1334f6b064d51fd"
+          }
+        },
+        {
+          "client_id": "617659426007-3p5pmsi1ceg3a4eoepd4gs68dldcgjro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Tg0_-uz7ZbCRdolDYgIcKhh9gEHQSH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617659426007-3p5pmsi1ceg3a4eoepd4gs68dldcgjro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617659426007-l0ppju1ugdgaivla87kjha8o7docahv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fullstack.megaholodClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617659426007:android:fda809c8471e73aa31bc92",
+        "android_client_info": {
+          "package_name": "com.fullstack.megaholod_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617659426007-3lle2mvacpm67bocpdkjpihrmr1rk51u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fullstack.megaholod_client",
+            "certificate_hash": "54b51540953ce02c693739dda1334f6b064d51fd"
+          }
+        },
+        {
+          "client_id": "617659426007-3tv0l18sclibo25ndudhp9bfem9c370g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fullstack.megaholod_client",
+            "certificate_hash": "31a62c8614ce276a0f553b637e9bd849ff0df8fa"
+          }
+        },
+        {
+          "client_id": "617659426007-3p5pmsi1ceg3a4eoepd4gs68dldcgjro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Tg0_-uz7ZbCRdolDYgIcKhh9gEHQSH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617659426007-3p5pmsi1ceg3a4eoepd4gs68dldcgjro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617659426007-l0ppju1ugdgaivla87kjha8o7docahv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fullstack.megaholodClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617659426007:android:aee9276cf5e724d831bc92",
+        "android_client_info": {
+          "package_name": "com.fullstack7777.megaholod_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617659426007-3p5pmsi1ceg3a4eoepd4gs68dldcgjro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Tg0_-uz7ZbCRdolDYgIcKhh9gEHQSH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617659426007-3p5pmsi1ceg3a4eoepd4gs68dldcgjro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617659426007-l0ppju1ugdgaivla87kjha8o7docahv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fullstack.megaholodClient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
